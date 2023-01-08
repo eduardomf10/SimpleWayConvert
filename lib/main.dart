@@ -15,7 +15,7 @@ class ConverterSideApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       home: Scaffold(
-        backgroundColor: const Color.fromARGB(255, 210, 210, 210),
+        backgroundColor: const Color.fromARGB(255, 176, 138, 138),
         body: SafeArea(
           child: SingleChildScrollView(
             child: Column(
